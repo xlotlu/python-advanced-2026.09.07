@@ -3,6 +3,22 @@
 In Python everything is a reference.
 In Python everything is an object.
 
+"Python is self-documenting."
+
+# Utile:
+
+String formatting: de citit
+
+https://docs.python.org/3/library/string.html#format-examples
+
+Date formatting (and parsing):
+
+https://docs.python.org/3/library/datetime.html#format-codes
+
+
+Design patterns:
+
+https://refactoring.guru/design-patterns/
 
 # Protocolul de iterare:
 
