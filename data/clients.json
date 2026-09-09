@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Martha Foster",
+    "email_address": "martha.foster@example.com",
+    "bank_accounts": [
+      {
+        "id": 562,
+        "overdraft": 1800
+      },
+      {
+        "id": 628,
+        "overdraft": 5000
+      }
+    ]
+  },
+  {
+    "name": "Arthur Fox",
+    "email_address": "arthur.fox@example.com",
+    "bank_accounts": [
+      {
+        "id": 694,
+        "overdraft": 0
+      },
+      {
+        "id": 360,
+        "overdraft": 0
+      }
+    ]
+  },
+  {
+    "name": "Josh Kennedy",
+    "email_address": "josh.kennedy@example.com",
+    "bank_accounts": [
+      {
+        "id": 246,
+        "overdraft": 0
+      }
+    ]
+  },
+  {
+    "name": "Morgan Dean",
+    "email_address": "morgan.dean@example.com",
+    "bank_accounts": [
+      {
+        "id": 790,
+        "overdraft": 1000
+      },
+      {
+        "id": 557,
+        "overdraft": 6600
+      }
+    ]
+  },
+  {
+    "name": "Logan Duncan",
+    "email_address": "logan.duncan@example.com",
+    "bank_accounts": [
+      {
+        "id": 779,
+        "overdraft": 4100
+      },
+      {
+        "id": 580,
+        "overdraft": 8400
+      }
+    ]
+  },
+  {
+    "name": "Amelia Palmer",
+    "email_address": "amelia.palmer@example.com",
+    "bank_accounts": [
+      {
+        "id": 172,
+        "overdraft": 8300
+      }
+    ]
+  },
+  {
+    "name": "Rosie Walsh",
+    "email_address": "rosie.walsh@example.com",
+    "bank_accounts": [
+      {
+        "id": 519,
+        "overdraft": 1900
+      }
+    ]
+  },
+  {
+    "name": "Eleanor Morris",
+    "email_address": "eleanor.morris@example.com",
+    "bank_accounts": [
+      {
+        "id": 458,
+        "overdraft": 0
+      },
+      {
+        "id": 319,
+        "overdraft": 3800
+      }
+    ]
+  },
+  {
+    "name": "Sebastian Hayes",
+    "email_address": "sebastian.hayes@example.com",
+    "bank_accounts": [
+      {
+        "id": 822,
+        "overdraft": 8100
+      },
+      {
+        "id": 165,
+        "overdraft": 0
+      }
+    ]
+  },
+  {
+    "name": "Sean Armstrong",
+    "email_address": "sean.armstrong@example.com",
+    "bank_accounts": [
+      {
+        "id": 840,
+        "overdraft": 5400
+      }
+    ]
+  }
+]

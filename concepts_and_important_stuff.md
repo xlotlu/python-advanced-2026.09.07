@@ -20,6 +20,12 @@ Design patterns:
 
 https://refactoring.guru/design-patterns/
 
+
+PEP-8 -- the styleguide:
+
+https://peps.python.org/pep-0008/
+
+
 # Protocolul de iterare:
 
 ```
