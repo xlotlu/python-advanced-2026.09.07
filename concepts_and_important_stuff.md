@@ -52,6 +52,16 @@ while True:
         break
 ```
 
+# Pachete utile
+
+$ pip install ipdb
+
+și în cod:
+
+```
+import ipdb
+ipdb.set_trace()
+```
 
 # Essential wisdom
 
@@ -59,3 +69,7 @@ There are 2 complex problems in programming:
 - naming things
 - cache invalidation
 - off-by-one errors
+
+```
+>>> import this
+```
